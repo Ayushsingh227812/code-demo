@@ -1,2 +1,2 @@
 # code-demo
-this is demo for codes
+this is demo for git & github
